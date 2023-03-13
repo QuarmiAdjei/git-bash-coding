@@ -1,0 +1,3 @@
+#!/bin/bash
+sample printing script
+echo "c is amazing"
